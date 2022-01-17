@@ -33,6 +33,7 @@ public class DataAdapter extends RecyclerView.Adapter<DataAdapter.ViewHolder> {
         return new ViewHolder(view);
     }
 
+    //lets start Change
     @Override
     public void onBindViewHolder(DataAdapter.ViewHolder viewHolder, final int i) {
         viewHolder.tv_doctor.setText(android.get(i).getName());
