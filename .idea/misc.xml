@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/New folder/DoctorCarePath/app/src/main/res/drawable/ad_native_bg_btn.xml" value="0.1" />
+        <entry key="..\:/New folder/DoctorCarePath/app/src/main/res/drawable/ic_right_blue.xml" value="0.1" />
+        <entry key="..\:/New folder/DoctorCarePath/app/src/main/res/drawable/share.xml" value="0.1" />
+        <entry key="..\:/New folder/DoctorCarePath/app/src/main/res/layout/activity_doctor_specialist.xml" value="0.16893115942028986" />
+        <entry key="..\:/New folder/DoctorCarePath/app/src/main/res/layout/ad_google_layout_100_dp.xml" value="0.1" />
+        <entry key="..\:/New folder/DoctorCarePath/app/src/main/res/layout/interstitial_banner_layout.xml" value="0.1" />
+        <entry key="..\:/New folder/DoctorCarePath/app/src/main/res/layout/native_ads_200dp.xml" value="0.1" />
+        <entry key="..\:/New folder/DoctorCarePath/app/src/main/res/layout/native_ads_300dp.xml" value="0.16893115942028986" />
+        <entry key="..\:/New folder/DoctorCarePath/app/src/main/res/layout/open_ad_banner_layout.xml" value="0.17229129662522202" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

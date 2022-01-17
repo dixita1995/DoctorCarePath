@@ -1,0 +1,2 @@
+include ':amazon-ads-6.0.0'
+include ':app'

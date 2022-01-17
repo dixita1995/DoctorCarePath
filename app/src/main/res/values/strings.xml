@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DoctorCarePath</string>
+    <string name="developby">Developed By : Dixita Gediya</string>
+    <string name="English">English</string>
+    <string name="Hindi">Hindi</string>
+    <string name="Gujarati">Gujarati</string>
+    <string name="share">Share</string>
+
+    <string name="projectid">ca-app-pub-5047541701842745~4961901037</string>
+    <string name="bannerid">ca-app-pub-5047541701842745/7396492687</string>
+    <string name="nativeid">ca-app-pub-5047541701842745/8134859280</string>
+    <string name="instrtrialid">ca-app-pub-5047541701842745/8326430970</string>
+
+</resources>
